@@ -3,7 +3,10 @@ chat app using firebase and react
 
 ### install
 
-> Clone reposiroty
-> Use in shell "npm install" or "yarn"
-> Change /src/config/firebaseConfij.js wiht you data (for example use mi config)
-> use in shell "npm run start" or "yarn start"
+> 1. Clone reposiroty
+>
+> 2. Use in shell "npm install" or "yarn"
+>
+> 3. Change /src/config/firebaseConfij.js wiht you data (for example use mi config)
+>
+> 4. use in shell "npm run start" or "yarn start"
