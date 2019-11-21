@@ -1,6 +1,9 @@
 # chat-react-firebase
 chat app using firebase and react
 
+# Demo in production: 
+https://chat-app-54e45.firebaseapp.com/login
+
 ### install
 
 > 1. Clone reposiroty
